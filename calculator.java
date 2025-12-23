@@ -28,6 +28,6 @@ public class Main {
         System.out.println("Add: " + calc.add(10, 5));
         System.out.println("Subtract: " + calc.subtract(10, 5));
         System.out.println("Multiply: " + calc.multiply(10, 5));
-        System.out.println("Divide: " + calc.divide(10, 2));
+        System.out.println("Divide: " + calc.divide(10, 0));
     }
 }
