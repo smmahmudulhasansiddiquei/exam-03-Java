@@ -1,3 +1,4 @@
+//question-1 of Part-3
 class Calculator {
 
     int add(int a, int b) {
@@ -21,6 +22,7 @@ class Calculator {
     }
 }
 
+//question-2 of Part-3
 public class Main {
     public static void main(String[] args) {
         Calculator calc = new Calculator();
